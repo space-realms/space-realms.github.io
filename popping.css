@@ -74,7 +74,7 @@
 		opacity: 1;
 	}
 	100% {
-		transform: translateY(-1000px) rotate(360deg);
-		opacity: 0.3;
+		transform: translateY(-1300px) rotate(360deg);
+		opacity: 0.4;
 	}
 }
